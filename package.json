@@ -83,11 +83,12 @@
     "binding.gyp",
     "install/**",
     "lib/**",
-    "src/**"
+    "src/**",
+    "build/**"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/lovell/sharp"
+    "url": "git://github.com/coreycollins/sharp"
   },
   "keywords": [
     "jpeg",
